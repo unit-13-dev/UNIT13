@@ -24,6 +24,11 @@ export const metadata: Metadata = {
   title: "UNIT13 — Creative & Digital Collective",
   description:
     "UNIT13 is a creative collective crafting bold brands, immersive websites, and digital experiences that refuse to blend in.",
+    icons: {
+    icon: [`/unit13.png.png`],
+    shortcut: [`/unit13.png.png`],
+    apple: [`/unit13.png.png`]
+  },
   keywords: [
     "UNIT13",
     "creative collective",
